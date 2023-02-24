@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+ name: dotnetwebgoat
+ labels:
+   app: dotnetwebgoat
+spec:
+ replicas: 3
+ selector:
+  matchLabels:  
+   app: dotnetwebgoat
+ template:
+  metadata:
+   labels:
+     app: dotnetwebgoat
+
+  spec:
+   containers:
+    - name: dotnetwebgoat
+      image: cyberpwndevsec/dotnetwebgoat:devopsprod
+      ports:
+       - containerPort: 5000
+
