@@ -1,6 +1,6 @@
 # WebGoat.NET version 0.2
 
-## Build status
+## Build statu
 
 ![build .NET 7](https://github.com/tobyash86/WebGoat.NET/workflows/build%20.NET%207/badge.svg)
 
