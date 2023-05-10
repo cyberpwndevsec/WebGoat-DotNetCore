@@ -4,7 +4,7 @@
 
 ![build .NET 7](https://github.com/tobyash86/WebGoat.NET/workflows/build%20.NET%207/badge.svg)
 
-## The next generation of the WebGoat example project to demonstrate OWASP TOP 10 vulnerabilities
+## The next generation of the WebGoat example project to demonstrate OWASP TOP 10 vulnerability
 
 This is re-implementation of the original [WebGoat project for .NET](https://github.com/rappayne/WebGoat.NET).
 
@@ -23,7 +23,7 @@ RUNNING!
 ### Notes:
  - Google Chrome performs filtering for reflected XSS attacks. These attacks
    will not work unless chrome is run with the argument 
-   `--disable-xss-auditor`.
+   `--disable-xss-auditors`.
 
 ## Requirements
 - .NET 7 SDK
