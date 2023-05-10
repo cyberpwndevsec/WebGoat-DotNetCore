@@ -23,7 +23,7 @@ RUNNING!
 ### Notes:
  - Google Chrome performs filtering for reflected XSS attacks. These attacks
    will not work unless chrome is run with the argument 
-   `--disable-xss-auditor`.
+   `--disable-xss-auditors`.
 
 ## Requirements
 - .NET 7 SDK
