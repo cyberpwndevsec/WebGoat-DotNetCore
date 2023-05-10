@@ -1,6 +1,6 @@
 # WebGoat.NET version 0.2
 
-## Build status
+## Build status 
 
 ![build .NET 7](https://github.com/tobyash86/WebGoat.NET/workflows/build%20.NET%207/badge.svg)
 
@@ -12,13 +12,13 @@ This web application is a learning platform that attempts to teach about
 common web security flaws. It contains generic security flaws that apply to
 most web applications. It also contains lessons that specifically pertain to
 the .NET framework. The exercises in this app are intended to teach about 
-web security attacks and how the developers can overcome them.
+web security attacks and how the developers can overcome this
 
 ### WARNING!: 
 THIS WEB APPLICATION IS CONTAINS NUMEROUS SECURITY VULNERABILITIES 
 WHICH WILL RENDER YOUR COMPUTER VERY INSECURE WHILE RUNNING! IT IS a HIGHLY
 RECOMMENDED TO COMPLETELY DISCONNECT YOUR COMPUTER FROM ALL NETWORKS WHILE
-RUNNING!
+RUNNING
 
 ### Notes:
  - Google Chrome performs filtering for reflected XSS attacks. These attacks
