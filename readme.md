@@ -1,12 +1,12 @@
 # WebGoat.NET version 0.2
 
-## Build status
+## Build statu
 
 ![build .NET 7](https://github.com/tobyash86/WebGoat.NET/workflows/build%20.NET%207/badge.svg)
 
 ## The next generation of the WebGoat example project to demonstrate OWASP TOP 10 vulnerability
 
-This is a re-implementation of the original [WebGoat project for .NET](https://github.com/rappayne/WebGoat.NET).
+This is re-implementation of the original [WebGoat project for .NET](https://github.com/rappayne/WebGoat.NET).
 
 This web application is a learning platform that attempts to teach about
 common web security flaws. It contains generic security flaws that apply to
@@ -16,7 +16,7 @@ web security attacks and how the developers can overcome them.
 
 ### WARNING!: 
 THIS WEB APPLICATION IS CONTAINS NUMEROUS SECURITY VULNERABILITIES 
-WHICH WILL RENDER YOUR COMPUTER VERY INSECURE WHILE RUNNING! IT IS a HIGHLY
+WHICH WILL RENDER YOUR COMPUTER VERY INSECURE WHILE RUNNING! IT IS  HIGHLY
 RECOMMENDED TO COMPLETELY DISCONNECT YOUR COMPUTER FROM ALL NETWORKS WHILE
 RUNNING!
 
