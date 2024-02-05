@@ -3,6 +3,7 @@
 ## Build status
 
 ![build .NET 7](https://github.com/tobyash86/WebGoat.NET/workflows/build%20.NET%207/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcyberpwndevsec%2FWebGoat-DotNetCore.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcyberpwndevsec%2FWebGoat-DotNetCore?ref=badge_shield)
 
 ## The next generation of the WebGoat example project to demonstrate OWASP TOP 10 vulnerability
 
@@ -115,3 +116,7 @@ The WebGoat.NET projects ships with scripts that allow you to conveniently run t
 2. Educational documents/trainings for any categories of the latest OWASP Top 10 are not available.
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcyberpwndevsec%2FWebGoat-DotNetCore.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcyberpwndevsec%2FWebGoat-DotNetCore?ref=badge_large)
